@@ -6,13 +6,13 @@ Chanson
 
 歌をシェアしてユーザー同士でコミュニケーションをとったり、ボイストレーナーからアドバイスをもらうことができる。
 
-# URL
+<!-- # URL -->
 
-# テスト用アカウント
+<!-- # テスト用アカウント
 
 ・Basic認証ID：eowyn 
 
-・Basic認証パスワード：1954
+・Basic認証パスワード：1954 -->
 
 # 利用方法
 
@@ -41,9 +41,9 @@ Chanson
 [要件定義シート](https://docs.google.com/spreadsheets/d/1Mcw-2VIBz3ClBwKlZW21OzpEmD_UJq175lRiY9vvZbU/edit#gid=982722306) 
 
 
-# 実装した機能についての画像やGIFおよびその説明
+<!-- # 実装した機能についての画像やGIFおよびその説明
 
-# 実装予定の機能
+# 実装予定の機能 -->
 
 
 # データベース設計
@@ -61,12 +61,12 @@ Chanson
 
 ・バックエンド　Ruby,Ruby on rails
 
-・テキストエディタ　VS code
+・テキストエディタ　Visual Studio Code
 
 ・タスク管理　GitHub
 
 
-# ローカルでの操作方法
+<!-- # ローカルでの操作方法
 
 
 # 工夫したポイント
@@ -75,7 +75,7 @@ Chanson
 # 改善点
 
 
-# 制作期間
+# 制作期間 -->
 
 
 
