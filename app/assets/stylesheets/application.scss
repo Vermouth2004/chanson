@@ -1,5 +1,13 @@
 @import "bootstrap";
 
+// ヘッダー部分
+nav{
+  z-index: 10;
+  width: 100%;
+
+}
+
+
 
 
 // フッター部分（前頁共通）
@@ -9,4 +17,28 @@ footer{
   width: 100%;
   line-height: 50px;
 }
+
+// 投稿一覧表示画面
+
+
+.index-contents{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  height: 200px;
+
+}
+
+
+
+table{
+  margin: 50px;
+}
+
+
+
+
+
 
