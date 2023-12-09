@@ -12,7 +12,7 @@ nav{
 
 // フッター部分（前頁共通）
 footer{
-  background-color: aquamarine;
+  background-color: aqua;
   height: 50px;
   width: 100%;
   line-height: 50px;
@@ -46,6 +46,11 @@ table{
 .form-control{
   // margin: 50px;
   width: 600px;
+}
+
+// 投稿編集画面
+.edit-contents{
+  padding: 30px;
 }
 
 
