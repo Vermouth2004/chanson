@@ -21,7 +21,7 @@ footer{
 // 投稿一覧表示画面
 
 
-.index-contents{
+.index-content{
   display: flex;
   justify-content: space-between;
 }
@@ -35,6 +35,13 @@ footer{
 
 table{
   margin: 50px;
+}
+
+
+.login-btn{
+  display: flex;
+  justify-content: center;
+
 }
 
 // 新規投稿画面
