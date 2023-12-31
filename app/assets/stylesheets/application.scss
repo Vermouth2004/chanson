@@ -1,0 +1,100 @@
+@import "bootstrap";
+
+// ヘッダー部分
+nav{
+  z-index: 10;
+  width: 100%;
+
+}
+
+
+
+
+// フッター部分（前頁共通）
+footer{
+  background-color: aqua;
+  height: 50px;
+  width: 100%;
+  line-height: 50px;
+}
+
+// 投稿一覧表示画面
+
+
+.index-content{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  height: 100px;
+
+}
+
+
+
+table{
+  margin: 50px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+
+}
+
+
+.login-btn{
+  display: flex;
+  justify-content: center;
+
+}
+
+// 新規投稿画面
+
+.new-contents{
+  padding: 30px;
+}
+
+.form-control{
+  // margin: 50px;
+  width: 600px;
+}
+
+// 投稿編集画面
+.edit-contents{
+  padding: 30px;
+}
+
+
+
+
+
+// 投稿詳細画面
+
+.show-contents{
+  display: flex;
+  justify-content: space-around;  
+}
+
+
+.show-content{
+  margin-top: 60px;
+  margin-right: 80px;
+  font-size: 20px;
+}
+
+.song-title,.song-genre,.song-comment,.song-user{
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+
+.btn{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
