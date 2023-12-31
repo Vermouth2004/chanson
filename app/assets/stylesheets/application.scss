@@ -68,3 +68,33 @@ a{
 
 
 
+
+
+// 投稿詳細画面
+
+.show-contents{
+  display: flex;
+  justify-content: space-around;  
+}
+
+
+.show-content{
+  margin-top: 60px;
+  margin-right: 80px;
+  font-size: 20px;
+}
+
+.song-title,.song-genre,.song-comment,.song-user{
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+
+.btn{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
